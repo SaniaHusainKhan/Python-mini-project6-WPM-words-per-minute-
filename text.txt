@@ -1,0 +1,5 @@
+Hello world, my name is Sam and I am a student as well as a programmer.  
+I study at VSIT where I keep learning and improving my coding skills.  
+I enjoy contributing to GitHub by posting projects and useful code.  
+This typing test project helps me practice and improve my speed.  
+Programming is my passion and I am always excited to build new things.  
